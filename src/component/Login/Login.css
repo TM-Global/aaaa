@@ -1,0 +1,53 @@
+	.from_box{
+	box-sizing: border-box;
+	width: 400px;
+	margin: 25px auto;
+	border: 1px solid #77cbff;
+	border-radius: 8px;
+	padding-left: 40px;
+    padding-top: 20px;
+	
+	}
+	.from_box h2{
+	    text-align: center;
+	}
+	.form_control label{
+	    display: block;
+	    margin-bottom: 10px;
+	
+	}
+	.form_control input{
+	    width: 92%;
+	    padding: 10px;
+	    border: 2px solid rgb(231, 231, 238);
+	    font-size: 18px;
+	}
+	.form_control {
+	    margin-bottom: 20px;
+	}
+	.from_box button{
+	 width: 92%;    
+	 padding: 10px;
+	 border: none;
+	 font-size: 20px;
+	 cursor: pointer;
+     color: #fff;
+     transition: .3s;
+     border-radius: 40px;
+     background: #1251bf;
+	}
+	.from_box button:hover{
+	    background: rgb(28, 113, 251);
+	}
+	.social_logo{
+		width: 200px;
+		margin-left: 100px;
+		margin-bottom: 10px;
+
+	}
+	.log_icon{
+		font-size: 45px;
+		margin: 0 10px;
+		cursor: pointer;
+
+	}
